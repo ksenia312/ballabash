@@ -14,7 +14,7 @@ aspects of each level, such as the goal, target size, ball speed, and frequency.
 
 ## Preview
 
-<img src="screencast.gif" width=300 alt="screencast" />
+![screencast.gif](https://github.com/user-attachments/assets/729b1430-3418-4dc3-a0df-b93ce381e551)
 
 ## Getting Started
 
